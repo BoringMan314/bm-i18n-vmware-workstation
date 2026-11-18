@@ -12634,7 +12634,7 @@ msg.wui.diskCapacity.maxDiskSize = "最大磁碟大小 (GB)(&S):"
 
 msg.wui.diskCapacity.noRemoteSplit = "不支援為遠端虛擬機建立拆分虛擬磁碟。"
 
-msg.wui.diskCapacity.storeMonolithic = "將虛擬磁碟儲存為個人授權檔案(&O)"
+msg.wui.diskCapacity.storeMonolithic = "將虛擬磁碟儲存為單個檔案(&O)"
 
 msg.wui.diskCapacity.storeSplit = "將虛擬磁碟拆分成多個檔案(&M)"
 
