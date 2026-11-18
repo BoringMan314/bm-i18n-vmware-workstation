@@ -1,0 +1,8 @@
+# Keep only the three translated payload files in version folders.
+# Ignore all other files, including installers, shortcuts, tools, and temp output.
+*
+!*/
+!.gitignore
+!**/vmware.vmsg
+!**/vmui.dll
+!**/vmappsdk.dll
